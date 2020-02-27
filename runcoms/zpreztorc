@@ -31,11 +31,23 @@ zstyle ':prezto:*:*' color 'yes'
 # The order matters.
 zstyle ':prezto:load' pmodule \
   'environment' \
-  'terminal' \
-  'editor' \
-  'history' \
+  'syntax-highlighting' \
+  'history-substring-search' \
+  'autosuggestions' \
+  'archive' \
+  'command-not-found' \
   'directory' \
-  'spectrum' \
+  'docker' \
+  'dpkg' \
+  'git' \
+  'history' \
+  'homebrew' \
+  'osx' \
+  'python' \
+  'rsync' \
+  'ssh' \
+  'terminal' \
+  'tmux' \
   'utility' \
   'completion' \
   'prompt'
